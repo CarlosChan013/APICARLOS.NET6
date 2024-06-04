@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cMzQaF7x4uJCU9/UkNrJOL1EDKLsPrnUCupZVCXGBg0=",
+  "Source": "WebApiBackend",
+  "BasePath": "_content/WebApiBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
